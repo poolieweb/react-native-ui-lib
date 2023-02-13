@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "lodash": "^4.0.0",
-    "requireindex": "~1.1.0"
+    "requireindex": "~1.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
