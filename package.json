@@ -34,7 +34,7 @@
     "release": "node ./scripts/release.js"
   },
   "dependencies": {
-    "babel-plugin-transform-inline-environment-variables": "^0.0.2",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "color": "^3.1.0",
     "commons-validator-js": "^1.0.237",
     "hoist-non-react-statics": "^3.0.0",
